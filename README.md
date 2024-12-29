@@ -15,3 +15,4 @@ To integrate this feature into your own SwiftUI app, follow the steps below:
     - The SwipeProfileFeatureView view is the main entry point for displaying the swipe profiles. It consists of a stack of profiles, swipe actions, and a UI with Like, Message, and Hide buttons.
     - Integrate the SwipeProfileFeatureView wherever you'd like the swipe functionality in your app.
 
+![Uploading Screenshot 2024-12-29 at 10.45.27.png…]()
